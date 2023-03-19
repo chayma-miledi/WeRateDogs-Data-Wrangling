@@ -13,11 +13,11 @@ Technologies Used
 ## Project Implementation
 The project was implemented using Jupyter Notebook with the following Python libraries:
 
-Pandas for data manipulation and analysis
-NumPy for numerical operations
-Requests for accessing and downloading data from web pages
-Tweepy for accessing Twitter API
-Matplotlib and Seaborn for data visualization
+* Pandas for data manipulation and analysis
+* NumPy for numerical operations
+* Requests for accessing and downloading data from web pages
+* Tweepy for accessing Twitter API
+* Matplotlib and Seaborn for data visualization
 
 ## Repository Contents
 This GitHub repository contains the following files:
