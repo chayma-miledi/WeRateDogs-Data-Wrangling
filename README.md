@@ -33,5 +33,5 @@ This GitHub repository contains the following files:
 To use this project, clone the GitHub repository to your local machine and run the Jupyter notebook WeRateDogs Data Wrangling.ipynb to reproduce the data wrangling process. 
 The cleaned data can be found in twitter_archive_master.csv and can be used for further analysis and visualization.
 
-Conclusion
+## Conclusion
 This project provides a comprehensive analysis of WeRateDogs Twitter data through the process of data wrangling, analysis, and visualization. The cleaned data provides valuable insights into the popularity of different dog breeds, the relationship between retweets and favorites, and the most common dog names. This project serves as a valuable resource for anyone interested in dog-related data analysis or social media analysis in general.
